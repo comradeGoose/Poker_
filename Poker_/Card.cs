@@ -12,7 +12,6 @@
 
         public enum Advantages
         {
-            ace = 1,
             Двойка,
             Тройка,
             Четверка,
